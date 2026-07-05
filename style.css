@@ -1,0 +1,26 @@
+body{
+
+font-family:'Segoe UI';
+
+}
+
+
+.card{
+
+border-radius:15px;
+
+}
+
+
+.navbar{
+
+padding:15px;
+
+}
+
+
+button{
+
+border-radius:8px!important;
+
+}
